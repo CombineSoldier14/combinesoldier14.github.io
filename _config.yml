@@ -1,0 +1,70 @@
+# Jekyll configuration
+
+name: CombineSoldier14's blog
+description: Making Steve Jobs angry since 20XX!
+
+# url is currently only used only for the RSS feed in feed.xml
+url: https://combinesoldier14.site
+
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: ''
+
+# These can be '' to hide the Github or Gitlab nav buttons
+github: 'CombineSoldier14'
+gitlab: ''
+
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
+
+# The 'comments' setting enables comments. You'll need to select either
+# disqus or isso below to choose a comment system. Individual posts can
+# override 'comments' to disable on a post-by-post basis.
+comments: false
+
+# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
+isso: ''
+
+# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
+disqus: ''
+
+navbar:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Archives
+    url: /archives
+  - name: GitHub
+    url: https://github.com/CombineSoldier14
+  - name: CombineBot
+    url: /combinebot
+
+
+links:
+  - name: YouTube
+    url: https://www.youtube.com/channel/UCoY31EmAjtj4sx5-dZG-uYQ
+  - name: Reddit
+    url: https://old.reddit.com/u/DogeDr0id709X
+  - name: Steam
+    url: https://steamcommunity.com/profiles/76561198991614173/
+  - name: Discord - @combinesoldier14
+    url: "#"
+feed:
+  path: /feed.xml
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap 
+  - jekyll-paginate
+
+permalink: /:year/:month/:title
+paginate: 3
+
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE']
