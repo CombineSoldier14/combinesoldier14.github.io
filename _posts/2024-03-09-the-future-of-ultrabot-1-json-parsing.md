@@ -1,0 +1,6 @@
+---
+layout: post
+title: The future of UltraBot 1; JSON parsing
+---
+
+<p>&nbsp;While procrastinating on my Sonic 3 &amp; Knuckles review, I would like to introduce multiple new commands using APIs and JSON parsing!</p><p>I recently discovered that BDScript has the ability to parse JSON and then extract the key values into a message, which means APIs!</p><p>This uses BDScript 2 only. After performing a GET command on a URL (in the form of $httpGet[]) you can recieve text from there and since that text is usually JSON, you use $jsonParse to parse that code, which gives you access to the JSON keys which you can extract data from to use in a bot response. This is how most public APIs work and I'm constantly making new commands in UltraBot thanks to them. I always take that data and wrap it up in a neat functional little embed.</p><p>So, I'm starting something new. If there is a specific API you want (that does not require any API keys and is free and public) tell me and I'll do my best to implement it into UltraBot X!</p><p>The new commands for UltraBot X is:</p><p>/meme (use -meme if the slash command doesn't appear)</p><p>/dog (random dog image)</p><p>/jojostands (random jojo stand)</p><p>/jojocharacters (random jojo character)</p><p><br /></p><p>I am definetely going to use way too many of these in the future, so get excited!</p>
