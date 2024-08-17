@@ -43,6 +43,8 @@ navbar:
     url: https://github.com/CombineSoldier14
   - name: CombineBot
     url: /combinebot
+  - name: RSS Feed
+    url: /feed.xml
 
 
 links:
