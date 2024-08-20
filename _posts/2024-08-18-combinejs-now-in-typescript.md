@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CombineJS - Now in TypeScript! + How to Run It
+title: CombineJS, now in TypeScript!
 ---
 
 ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png)
