@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The future of CombineBot 4 JS all the way
+title: The future of CombineBot 4 - JS all the way
 ---
 
 Hello everyone. I'm back again with some *very* big news for the future of CombineBot. First of all, I realize I haven't been adding much to the bots lately (besides fixing some AWFUL SQL bugs), and the reason for that will be discussed here. With that in mind, I'm sure must of you know about how a few months ago I started work on CombineJS, a recreation of CombineBot in discord.js. I made that for more reasons that I let one besides learning discord.js. To understand what I'm going to announce here, we need to go back to the beginning.
