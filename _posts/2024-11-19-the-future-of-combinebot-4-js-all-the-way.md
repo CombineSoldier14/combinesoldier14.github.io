@@ -14,83 +14,161 @@ Again, none of this will happen soon. I still need to import the SQL databases a
 Command list:
 
 /ping - kept
+
 /helloworld - kept
+
 /checklevel - kept
+
 /about - kept
+
 /toggleleveling - kept
+
 /say - kept
+
 /ephemeral - removed
+
 /invite - removed (already part of /about)
+
 /dadjoke - removed
+
 /xkcd - kept
+
 /xkcdrecent - kept
+
 /dogpics - removed
+
 /shakespeare - kept
+
 /jojostand - removed
+
 /jojocharacter - removed
+
 /randomreddit - kept
+
 /randombreed - removed
+
 /urlshort - kept
+
 /weather - kept
+
 /httpanimal - kept
+
 /pokedex - kept
+
 /dictionary - kept
+
 /fakeperson - removed
+
 /bible - removed
+
 /rss - kept
+
 /demonlist - kept
+
 /trivia - kept
+
 /cattext - removed
+
 /urbandictionary - kept
+
 /qrcode - removed
+
 All calculator commands - will be revamped
+
 /mbtifinder - removed
+
 /mbtilfunctions - removed
+
 /cogfunctest - kept (code will be revamped)
+
 /dndmodifier - removed
+
 /enneagramtest - kept
+
 /cowsay - kept
+
 /randomword - removed
+
 /coinflip - kept
+
 /randomyt - removed (doesn't even work 99% of the time lmao)
+
 /aaquote - removed
+
 /edgeworthcube - I love it, but removed
+
 /disc2mbti - kept
+
 /mostmbti - removed
+
 /mbtitest - kept
+
 /mcjava - kept
+
 /mcbedrock - kept
+
 /userid - kept but will be merged into /userinfo
+
 /ban - kept
+
 /kick - kept
+
 /purge - kept
+
 /timeout - kept
+
 /untimeout - kept
+
 /createchannel - kept
+
 /deletechannel - kept
+
 /thread - kept
+
 /channelid  - kept but will be merged into /channelinfo
+
 /poll - kept
+
 /addrole - kept
+
 /createrole - kept
+
 /removerole - kept
+
 /roleinfo - kept
+
 /rps - kept
+
 /standbattle - will be revamped
+
 /suntzuquotes - removed
+
 /avatar - kept
+
 /gettime - kept
+
 /timestop - kept but will be revamped
+
 /resume - kept but will be revamped
+
 /userinfo - kept
+
 /botinfo - will be merged into /about
+
 /channelinfo - kept
+
 /serverinfo - kept
+
 /button - kept
+
 /uuid - removed
+
 /randomstring - removed
+
 /unixtime - kept
+
 /roleid - will  be merged into /roleinfo
+
 /welcomescreen - kept
 
 I will also be revamping the core (`combinebot.py`) to be not shit
