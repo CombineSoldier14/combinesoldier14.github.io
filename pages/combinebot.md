@@ -4,7 +4,7 @@ permalink: /combinebot
 title: CombineBot Links + FAQ
 ---
 
-<h1 align="center">CombineBot <img src="https://cdn.discordapp.com/avatars/1225220764861730867/c10173e8f40183d9fa988131caf1e1fa.png?size=48" /></h1>
+<h1 align="center">CombineBot <img src="https://i.postimg.cc/sDXM4zL5/combinebot.png", style="width:40px;height:40px;" /></h1>
 
 <!-- ![alt text](https://cdn.discordapp.com/app-icons/1225220764861730867/f66bd4beb4f1ebee0685d8c5cfd646bb.png?size=256) -->
 
