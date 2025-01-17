@@ -54,7 +54,7 @@ Anyone can add CombineBot to their server on [this link!](https://discord.com/oa
 
 **Q:** How is CombineBot hosted, and what methods did you use?
 
-**A:** I host CombineBot at home via my Raspberry Pi 5! If my bot ever becomes popular I'll have to upgrade systems but I doubt that will happen anytime soon.
+**A:** I host CombineBot at home via my Raspberry Pi 4! If my bot ever becomes popular I'll have to upgrade systems but I doubt that will happen anytime soon.
 
 
 
