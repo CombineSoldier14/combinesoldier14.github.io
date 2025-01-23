@@ -3,15 +3,17 @@ layout: default
 permalink: /combinebot-privacy-policy
 ---
 
+Last updated July 12, 2024
+
 AGREEMENT TO OUR LEGAL TERMS
 
-We are CombineSoldier14 ("Company," "we," "us," "our"), a company registered in California.
+I am CombineSoldier14, a person in California.
 
-We operate the mobile application CombineBot (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+I operate the discord application CombineBot (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
 CombineBot is a free and open source Discord bot that is made to run a server or have fun with your friends. It has over 50 slash commands and is very easy to use.
 
-You can contact us by phone at 628-236-9344, email at discordcombinebot@gmail.com.
+You can contact us by email at discordcombinebot@gmail.com.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and CombineSoldier14, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -242,6 +244,5 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-CombineSoldier14
-Phone: 628-236-9344 
+CombineSoldier14 
 discordcombinebot@gmail.com
