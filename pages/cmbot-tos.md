@@ -9,7 +9,7 @@ last_updated: 1/23/2025
 ## Overview
 While CombineBot as a Discord bot is free and open-source, there are a few things I expect from you, and You can expect from me.  These terms will help you understand what your rights are while using CombineBot.
 
-## Please don"t do these things...
+## Please don't do these things...
 * Use CombineBot for *any and all* illegal purposes.
     * This includes, but is not limited to, using CombineBot for harassment, spamming, or distributing malicious content.
 * Modify CombineBot in a way that is incompatible with the GNU General-Purpose License, either version 3, or *(at your option)*, any later version.
@@ -26,7 +26,7 @@ While CombineBot as a Discord bot is free and open-source, there are a few thing
 I reserve the right to update these terms anytime.  New changes are effective 2 weeks after being initially posted here.
 
 <p align="center">
-    These terms were last updated {{ last_updated }}
+    These terms were last updated 1/23/2025.
 </p>
 
 [discord-tos]: https://discord.com/terms
