@@ -18,7 +18,7 @@ title: CombineBot Links + FAQ
 CombineBot is a full open source discord bot made by me. It has 30+ slash commands for moderation and fun, perfect for any server.
 
 ## Features!
-* MBTI Test command (coming soon)
+* MBTI Test command!
 
 * No premium or paid features
 
@@ -34,9 +34,9 @@ CombineBot is a full open source discord bot made by me. It has 30+ slash comman
 Anyone can add CombineBot to their server on [this link!](https://discord.com/oauth2/authorize?client_id=1225220764861730867)
 
 ## More!
-[Terms of Service](https://www.combinesoldier14.site/combinebot-privacy-policy)
+[Terms of Service](https://combinesoldier14.github.io/combinebot-privacy-policy)
 
-[Privacy Policy](https://www.combinesoldier14.site/combinebot-tos)
+[Privacy Policy](https://combinesoldier14.github.io/combinebot-tos)
 
 ## FAQ
 
