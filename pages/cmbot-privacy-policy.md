@@ -18,7 +18,7 @@ In addition to this, when you choose to report an error in the bot to CombineSol
 * Additional metadata as required to execute commands or deliver features.
 
 ## Selling Data
-Data is not sold.  Period.  Anonymous information is put in the bot console, and is used for debugging purposes, and to ensure the quality of CombineBot.  This anonymous information is seen by myself and Damien Boisvert ([@AlphaGameDeveloper][agd-gh]) who manage the physical on-premises server on which CombineBot resides.
+Data is not sold.  Period.  Anonymous information is put in the bot console, and is used for debugging purposes, and to ensure the quality of CombineBot.  This anonymous information is seen by myself and Damien Boisvert ([@AlphaGameDeveloper][agd-gh]) who help manage the physical on-premises server on which CombineBot resides.
 
 CombineBot does share some information with the APIs that it uses to function, things like certain command arguments can be shared with them in order to get data.
 
