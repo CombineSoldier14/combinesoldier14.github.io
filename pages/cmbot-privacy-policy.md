@@ -27,7 +27,7 @@ CombineBot uses reasonable measures to secure collected data and prevent unautho
 If you have any questions or concerns, please create a GitHub issue on the [CombineBot repository][combinebot-repo].
 
 <p align="center">
-    These terms were last updated {{ last_updated }}
+    These terms were last updated on 2/9/2025.
 </p>
 
 [agd-gh]: https://github.com/AlphaGameDeveloper
