@@ -31,6 +31,7 @@ Projects:
 - [CombineBot](https://combinebot.github.io)
 - [TF2 Loadout Randomizer](https://combinesoldier14.github.io/tf2-loadout-randomizer)
 - [BattleEngine, a terminal based highly customizable turn-based battle game and more C++ projects!](https://github.com/CombineSoldier14/cpp-projects)
+- [Random Trivia Website utilizing the OpenTDB](https://combinesoldier14.github.io/trivia-website/)
 
 **Some Projects that I like!:**
 - [TF2 Gold Rush](https://github.com/conneath/TF2-GoldRush)
